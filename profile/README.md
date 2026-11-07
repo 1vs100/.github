@@ -6,10 +6,13 @@ Did you also get your hopes up when news started circulating that Microsoft is w
 
 Yep, we too!
 
-Join our Discord for PC and Xbox 360 beta testing of an actual Game Revival :)
+Join our Discord for PC, Xbox One/Series and Xbox 360 beta testing of an actual (unofficial) Game Revival :)
 
 https://discord.gg/tV3ajhwFTf
 
+The gameserver: https://1vs100.fans
+
+Documentation: https://docs.1vs100.fans
 
 ## Disclaimer
 
